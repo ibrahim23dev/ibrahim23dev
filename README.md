@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim23dev&show_icons=true&locale=en" alt="ibrahim23dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim23dev&" alt="ibrahim23dev" /></p>
+<p><img align="center" src="1675284596778.jpeg" alt="ibrahim23dev" /></p>
