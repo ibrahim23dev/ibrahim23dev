@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=6000&lines=Hi+👋,I'm;+Mohammad+Ibrahim;" />
 </h1>
-
-<h1 align="center">Hi 👋, I'm Mohammad Ibrahim</h1>
 <h3 align="center">A passionate frontend & Backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="1675284596778.jpeg" alt="ibrahim23dev" /> </p>
