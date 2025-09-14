@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim23dev" alt="ibrahim23dev" /></a> </p>
 
-- 🔭 I’m currently working on **Islamic App**
+- 🔭 I’m currently working on **Islamic App ok**
 
 - 🌱 I’m currently learning **Next Js ,Spring Boot, Laravel**
 
